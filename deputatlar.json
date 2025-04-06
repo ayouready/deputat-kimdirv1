@@ -1,62 +1,72 @@
 [
   {
-    "ad": "İlqar Məmmədov",
-    "partiya": "ReAL",
-    "daire": "Gəncə",
-    "haqqinda": "ReAL sədri, hüquq müdafiəçisi və islahat tərəfdarı."
+    "ad": "Soltan Məmmədov",
+    "partiya": "Bitərəf",
+    "dairə": "12 saylı Xəzər birinci Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Əmək və sosial siyasət komitəsinin üzvü.",
+    "foto": "https://example.com/images/soltan_mammadov.jpg"
   },
   {
-    "ad": "Azər Qasımlı",
-    "partiya": "ReAL",
-    "daire": "Sumqayıt",
-    "haqqinda": "Siyasi fəal və strateji düşüncə mütəxəssisi."
+    "ad": "Gülşən Paşayeva",
+    "partiya": "Bitərəf",
+    "dairə": "13 saylı Xəzər ikinci Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Beynəlxalq münasibətlər və parlamentlərarası əlaqələr komitəsinin üzvü.",
+    "foto": "https://example.com/images/gulshen_pashayeva.jpg"
   },
   {
-    "ad": "Qüdrət Həsənquliyev",
-    "partiya": "BAXCP",
-    "daire": "Xaçmaz",
-    "haqqinda": "Milli Məclisin üzvü və BAXCP sədri."
+    "ad": "Günay Əfəndiyeva",
+    "partiya": "Bitərəf",
+    "dairə": "14 saylı Xəzər-Pirallahı Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Mədəniyyət komitəsinin üzvü.",
+    "foto": "https://example.com/images/gunay_afandiyeva.jpg"
   },
   {
-    "ad": "Sahibə Qafarova",
+    "ad": "Ülvi Quliyev",
+    "partiya": "Bitərəf",
+    "dairə": "15 saylı Yasamal birinci Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Səhiyyə komitəsinin üzvü.",
+    "foto": "https://example.com/images/ulvi_quliyev.jpg"
+  },
+  {
+    "ad": "Erkin Qədirli",
+    "partiya": "REAL",
+    "dairə": "16 saylı Yasamal ikinci Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Hüquq siyasəti və dövlət quruculuğu komitəsinin üzvü.",
+    "foto": "https://example.com/images/erkin_qadirli.jpg"
+  },
+  {
+    "ad": "Göydəniz Qəhrəmanov",
+    "partiya": "Bitərəf",
+    "dairə": "17 saylı Yasamal üçüncü Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Gənclər və idman komitəsinin üzvü.",
+    "foto": "https://example.com/images/goydeniz_qahramanov.jpg"
+  },
+  {
+    "ad": "Rasim Musabəyov",
+    "partiya": "Bitərəf",
+    "dairə": "18 saylı Nərimanov-Nizami-Binəqədi Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Beynəlxalq münasibətlər və parlamentlərarası əlaqələr komitəsinin üzvü.",
+    "foto": "https://example.com/images/rasim_musabeyov.jpg"
+  },
+  {
+    "ad": "Hikmət Məmmədov",
     "partiya": "YAP",
-    "daire": "Tovuz",
-    "haqqinda": "Milli Məclisin sədri, filoloq alim."
-  },
-  {
-    "ad": "Əli Həsənov",
-    "partiya": "YAP",
-    "daire": "Naxçıvan",
-    "haqqinda": "Sabiq baş nazir müavini və dövlət xadimi."
-  },
-  {
-    "ad": "Zaur Məmmədov",
-    "partiya": "YAP",
-    "daire": "Xətai",
-    "haqqinda": "Gənc deputat, hüquq elmləri doktoru."
-  },
-  {
-    "ad": "Razi Nurullayev",
-    "partiya": "AXCP (klassik)",
-    "daire": "Lənkəran",
-    "haqqinda": "Müxalifət lideri, siyasi təhlilçi."
+    "dairə": "19 saylı Xətai birinci Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, İqtisadi siyasət, sənaye və sahibkarlıq komitəsinin üzvü.",
+    "foto": "https://example.com/images/hikmet_mammadov.jpg"
   },
   {
     "ad": "Fazil Mustafa",
-    "partiya": "Böyük Quruluş Partiyası",
-    "daire": "Sabunçu",
-    "haqqinda": "Milli Məclisin fəal deputatı və publisist."
+    "partiya": "YAP",
+    "dairə": "20 saylı Yasamal dördüncü Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Hüquq siyasəti və dövlət quruculuğu komitəsinin üzvü.",
+    "foto": "https://example.com/images/fazil_mustafa.jpg"
   },
   {
-    "ad": "Vahid Əhmədov",
-    "partiya": "Bitərəf",
-    "daire": "Quba",
-    "haqqinda": "İqtisadçı, parlamentdə iqtisadi komitə üzvü."
-  },
-  {
-    "ad": "Tural Abbaslı",
-    "partiya": "AG Partiyası",
-    "daire": "Binəqədi",
-    "haqqinda": "Yeni nəsil siyasətçi və partiya sədri."
+    "ad": "Azay Quliyev",
+    "partiya": "YAP",
+    "dairə": "21 saylı Binəqədi-Seçki Dairəsi",
+    "haqqinda": "Milli Məclisin deputatı, Təhsil, mədəniyyət və idman komitəsinin üzvü.",
+    "foto": "https://example.com/images/azay_quliyev.jpg"
   }
 ]
