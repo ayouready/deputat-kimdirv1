@@ -1,0 +1,35 @@
+# .github/workflows/scraper.yml
+
+name: Scrape Deputatlar
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Hər gün saat 02:00-da UTC (GMT+4 = 06:00 Bakı vaxtı)
+  workflow_dispatch: # Əl ilə də işlətmək üçün
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo klonlanır
+        uses: actions/checkout@v3
+
+      - name: Python quraşdırılır
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Lazımi kitabxanalar
+        run: pip install requests beautifulsoup4
+
+      - name: Scraper işə düşür
+        run: python scraper/scrape.py
+
+      - name: JSON faylını commit et
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add data/deputatlar.json
+          git commit -m "JSON avtomatik yeniləndi" || echo "Heç nə dəyişməyib"
+          git push
